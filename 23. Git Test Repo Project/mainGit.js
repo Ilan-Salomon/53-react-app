@@ -1,4 +1,3 @@
-//test git dif
 
 console.log("");
 console.log("------------------------");
@@ -6,8 +5,9 @@ console.log("Mystery Organism Project");
 console.log("--------RESULT----------");
 console.log("");
 
-let newNum = [0, 1, 2];
+let newNum = [0, 1, 2, 3];
 let ArrOfpAequor = [];
+//New Line "10" test Git; 
 
 // Returns a random DNA base
 const returnRandBase = () => {
