@@ -1,0 +1,34 @@
+Jammming components
+
+JS:
+	App.js
+	SearchBar.js
+	SearchResults.js
+	Playlist.js
+	Tracklist.js
+	Track.js
+	SaveToSpotify.js
+	Search.js
+
+
+
+Module.css
+
+	App.js
+	SearchBar.js
+	SearchResults.js
+	Playlist.js
+	Tracklist.js
+	Track.js
+	SaveToSpotify.js
+	Search.js
+
+
+Git Commands
+
+git commit -m "your text goes here"
+
+git branch -M main 
+
+git push -u origin main 
+

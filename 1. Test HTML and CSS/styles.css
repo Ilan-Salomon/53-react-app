@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 1px solid red;
+  box-sizing: border-box;
+}
+
+
+
+
+table, th, td {
+  border: 1px solid white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.ftrpic {
+  background-image: url("pics/test.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  min-height: 375px;
+  
+
+div {
+  overflow: visible;
+}
+
+.testtext{
+  color: white;
+  height: 2000px;
+  padding-top: 100px;
+}
+
+div a {
+
+color: black;
+background-color: white;
+border: 3px solid blue;
+margin: 100px;
+padding: 10px;
+
+}
+
+div a:hover {
+
+color: white;
+background-color: black;
+border: 3px solid red;
+margin: 100px;
+padding: 10px;
+
+}
+
+  /* test inline comment */
+}
